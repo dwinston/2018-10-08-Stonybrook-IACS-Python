@@ -543,6 +543,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       (some older browsers, including Internet Explorer version 9
       and below, are not).
     </p>
+    
+    <p>You need to download some files to follow this lesson:</p>
+
+    <ol>
+      <li>Download <a href="./data/swc_stonybrook.zip">swc_stonybrook.zip</a> and move the file to your Desktop.</li>
+      <li>Unzip/extract the file (ask your instructor if you need help with this step). You should end up with a new folder called <strong>swc_stonybrook</strong> on your Desktop.</li>
+  <li>Open a terminal and type <code class="highlighter-rouge">cd</code>, then press the Enter key. That last step will make sure you start with your home folder as your working directory.</li>
+    </ol>
 
   <div class="row">
     <div class="col-md-4">
